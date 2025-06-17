@@ -19,7 +19,6 @@ This is a personal portfolio website built using WordPress, running locally with
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/6856b09b-f200-441a-96ab-188456c19897)
 
 
 ## 🚀 Setup Locally
