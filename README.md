@@ -19,7 +19,8 @@ This is a personal portfolio website built using WordPress, running locally with
 
 ## 📸 Screenshots
 
-*Add 1–2 screenshots of your site here*
+![image](https://github.com/user-attachments/assets/6856b09b-f200-441a-96ab-188456c19897)
+
 
 ## 🚀 Setup Locally
 
@@ -28,9 +29,6 @@ This is a personal portfolio website built using WordPress, running locally with
 3. Start Apache and MySQL
 4. Import the WordPress DB if included (else install WP fresh)
 
-## 🔗 Live Demo
-
-*(Add Netlify or GitHub Pages link if hosted externally)*
 
 ## 📬 Contact
 
